@@ -6,6 +6,6 @@ def add(x,y):
 def subtract(x,y):
     return x-y #master
 def multiply(x,y):# multiply function
-    pass
+    return x*y #Bug123
 def divide(x,y):#Divivde function
     pass
