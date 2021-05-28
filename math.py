@@ -4,7 +4,7 @@ def add(x,y):
     pass
 	#Substractions
 def subtract(x,y):
-    pass
+    return x-y #master
 def multiply(x,y):# multiply function
     pass
 def divide(x,y):#Divivde function
